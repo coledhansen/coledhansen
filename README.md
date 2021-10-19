@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @coledhansen
+- 👀 I’m interested in data analysis/storytelling, R/Python, and Ethereum development.
+- 🌱 I’m currently learning basic Python and Alteryx.
+- 💞️ I’m looking to collaborate on web development and pandas projects.
+- 📫 Reach me at my LinkedIn: www.linkedin.com/in/cole-hansen-18b43b76/
