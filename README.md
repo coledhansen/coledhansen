@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @coledhansen
-- 👀 I’m interested in data analysis/storytelling, R/Python, and Ethereum development.
+- 👀 I’m interested in data analysis/storytelling, Python/SQL, and data visualization software.
 - 🌱 I’m currently studying Python.
 - 📫 Reach me at my LinkedIn: www.linkedin.com/in/cole-hansen-18b43b76/
